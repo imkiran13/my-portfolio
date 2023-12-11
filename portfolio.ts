@@ -15,9 +15,8 @@ export const greetings: GreetingsType = {
   name: 'Kiran Pawar',
   title: "Hello all, I'm Kiran Pawar",
   description:
-    "A versatile IT professional with a passion for crafting exceptional digital experiences. I specialize in both frontend development and cloud and DevOps engineering, bringing a unique blend of creativity and technical expertise to the table.",
-  resumeLink:
-    '',
+    "A versatile IT professional with a passion for crafting exceptional digital experiences. I specialize in both Frontend development, cloud and DevOps engineering, bringing a unique blend of creativity and technical expertise to the table.",
+  resumeLink:"https://docs.google.com/document/d/1j_9fEpprw1QZ0wafkHthvrC35JwmYUOCQ0v9olUU2P0/edit#heading=h.26in1rg",
 };
 
 export const openSource = {
@@ -27,7 +26,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://imkiran13.github.io/',
+  url: 'https://imkiran13.github.io/my-portfolio/',
   linkedin: 'https://www.linkedin.com/in/kiran-pawar-57b4b8135',
   github: 'https://github.com/imkiran13',
   instagram: 'https://www.instagram.com/imkiran13',
@@ -297,7 +296,7 @@ export const projects: ProjectType[] = [
     name: 'Developer Portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap.',
     github: 'https://github.com/imkiran13/developer-portfolio',
-    link: 'https://developer-portfolio.netlify.app/',
+    link: 'https://imkiran13.github.io/my-portfolio/',
   },
   {
     name: 'Keerti Academy',
@@ -339,7 +338,7 @@ export const seoData: SEODataType = {
     'A passionate Cloud and DevOps Engineer and Front End Developer.',
   author: 'Kiran Pawar',
   image: 'https://avatars3.githubusercontent.com/u/59178380?v=4',
-  url: '',
+  url: 'https://imkiran13.github.io/my-portfolio/',
   keywords: [
     'Kiran',
     'Kiran Pawar',
