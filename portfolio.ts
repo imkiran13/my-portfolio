@@ -38,7 +38,7 @@ export const skillsSection: SkillsSectionType = {
   data: [
     {
       title: 'Front End Development',
-      lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
+      lottieAnimationFile: 'lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
           '⚡ Building responsive Single-Page-Apps (SPA) in React.js'
@@ -83,7 +83,7 @@ export const skillsSection: SkillsSectionType = {
     },
     {
       title: 'Cloud and DevOps',
-      lottieAnimationFile: '/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
+      lottieAnimationFile: 'lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
       skills: [
         emoji('⚡ Creating, setting up, and overseeing cloud-based infrastructure on platforms such as AWS'),
         emoji(
@@ -260,7 +260,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Frontend Developer',
     company: 'NeoSOFT Technologies',
-    companyLogo: '/img/icons/common/neosoft.png',
+    companyLogo: 'img/icons/common/neosoft.png',
     date: 'March 2021-Present',
     desc: 'I worked as frontend web developer to design web Applications  using HTML5, CSS3, SCSS, BEM, Bootstrap, Tailwind, Javascript, React and some other libraries.',
   },
