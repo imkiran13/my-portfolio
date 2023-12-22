@@ -260,7 +260,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Frontend Developer',
     company: 'NeoSOFT Technologies',
-    companyLogo: 'img/icons/common/neosoft.png',
+    companyLogo: 'public/img/icons/common/neosoft.png',
     date: 'March 2021-Present',
     desc: 'I worked as frontend web developer to design web Applications  using HTML5, CSS3, SCSS, BEM, Bootstrap, Tailwind, Javascript, React and some other libraries.',
   },
