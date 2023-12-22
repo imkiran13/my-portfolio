@@ -11,6 +11,7 @@ import {
   GreetingsType,
 } from './types/sections';
 
+
 export const greetings: GreetingsType = {
   name: 'Kiran Pawar',
   title: "Hello all, I'm Kiran Pawar",
@@ -26,7 +27,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  url: 'https://imkiran13.github.io/my-portfolio/',
+  // url: 'https://imkiran13.github.io/my-portfolio/',
   linkedin: 'https://www.linkedin.com/in/kiran-pawar-57b4b8135',
   github: 'https://github.com/imkiran13',
   instagram: 'https://www.instagram.com/imkiran13',
@@ -38,7 +39,7 @@ export const skillsSection: SkillsSectionType = {
   data: [
     {
       title: 'Front End Development',
-      lottieAnimationFile: '/lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
+      lottieAnimationFile: 'lottie/skills/fullstack.json', // Path of Lottie Animation JSON File
       skills: [
         emoji(
           '⚡ Building responsive Single-Page-Apps (SPA) in React.js'
@@ -83,7 +84,7 @@ export const skillsSection: SkillsSectionType = {
     },
     {
       title: 'Cloud and DevOps',
-      lottieAnimationFile: '/lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
+      lottieAnimationFile: 'lottie/skills/cloudinfra.json', // Path of Lottie Animation JSON File
       skills: [
         emoji('⚡ Creating, setting up, and overseeing cloud-based infrastructure on platforms such as AWS'),
         emoji(
@@ -180,6 +181,10 @@ export const skillsSection: SkillsSectionType = {
           skillName: 'Tomcat',
           iconifyTag: 'logos:tomcat',
         },
+        {
+          skillName: 'Python',
+          iconifyTag: 'logos:python',
+        },
         
       ],
     },
@@ -260,7 +265,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Frontend Developer',
     company: 'NeoSOFT Technologies',
-    companyLogo: '/img/icons/common/neosoft.png',
+    companyLogo: 'https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rdoftbzurlp50yearkrj',
     date: 'March 2021-Present',
     desc: 'I worked as frontend web developer to design web Applications  using HTML5, CSS3, SCSS, BEM, Bootstrap, Tailwind, Javascript, React and some other libraries.',
   },

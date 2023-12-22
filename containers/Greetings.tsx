@@ -10,6 +10,8 @@ const Greetings = () => {
     document.scrollingElement!.scrollTop = 0;
   });
 
+  
+
   return (
     <main>
       <div className="position-relative">
@@ -50,7 +52,7 @@ const Greetings = () => {
                   )}
                 </Col>
                 <Col lg="6">
-                  <GreetingLottie animationPath="../public/lottie/coding.json" />
+                  <GreetingLottie animationPath="/lottie/coding.json" />
                 </Col>
               </Row>
             </div>
