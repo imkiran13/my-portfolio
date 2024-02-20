@@ -263,7 +263,7 @@ export const experience: ExperienceType[] = [
     company: 'NeoSOFT Technologies',
     companyLogo: 'https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rdoftbzurlp50yearkrj',
     date: 'March 2021-Present',
-    desc: 'Currently working as Cloud and DevOps engineer.',
+    desc: 'As a Cloud and DevOps Engineer at NeoSOFT Technologies since March 2021, I design and implement robust solutions, specializing in source code management, CI/CD, and AWS cloud technologies..',
   },
   // {
   //   role: 'API Engineer',
