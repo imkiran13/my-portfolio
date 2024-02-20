@@ -35,7 +35,7 @@ export const socialLinks: SocialLinksType = {
 
 export const skillsSection: SkillsSectionType = {
   title: 'What I do',
-  // subTitle: ' WHO WANTS TO EXPLORE EVERY TECH STACK',
+  subTitle: ' ',
   data: [
     {
       title: 'Front End Development',
