@@ -35,7 +35,7 @@ export const socialLinks: SocialLinksType = {
 
 export const skillsSection: SkillsSectionType = {
   title: 'What I do',
-  subTitle: 'CRAZY FRONT-END DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK',
+  // subTitle: ' WHO WANTS TO EXPLORE EVERY TECH STACK',
   data: [
     {
       title: 'Front End Development',
@@ -259,11 +259,11 @@ export const educationInfo: EducationType[] = [
 
 export const experience: ExperienceType[] = [
   {
-    role: 'Frontend Developer',
+    role: 'Cloud and DevOps Engineer',
     company: 'NeoSOFT Technologies',
     companyLogo: 'https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rdoftbzurlp50yearkrj',
     date: 'March 2021-Present',
-    desc: 'I worked as frontend web developer to design web Applications  using HTML5, CSS3, SCSS, BEM, Bootstrap, Tailwind, Javascript, React and some other libraries.',
+    desc: 'Currently working as Cloud and DevOps engineer.',
   },
   // {
   //   role: 'API Engineer',
