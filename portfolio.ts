@@ -261,14 +261,14 @@ export const experience: ExperienceType[] = [
   {
     role: 'Cloud and DevOps Engineer',
     company: 'NeoSOFT Technologies',
-    companyLogo: 'https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rdoftbzurlp50yearkrj',
+    companyLogo: 'img/icons/common/Neosoft.png',
     date: 'March 2021-Oct 2024',
     desc: 'As a Cloud and DevOps Engineer at NeoSOFT Technologies since March 2021, I design and implement robust solutions, specializing in source code management, CI/CD, and AWS cloud technologies..',
   },
   {
     role: 'Production Engineer',
     company: 'Pivotree',
-    companyLogo: '/img/icons/common/pivotree.jpg',
+    companyLogo: 'img/icons/common/pivotree.jpg',
     date: 'Oct 2024 Present',
     desc: 'As a Production Engineer/DevOps at Pivotree Created Docker images and AWS CI/CD pipelines.Implemented Robot Framework using AWS for automation and testing.',
     // descBullets: [
