@@ -268,7 +268,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Production Engineer',
     company: 'Pivotree',
-    companyLogo: '/img/icons/common/Pivotree.jpg',
+    companyLogo: '/img/icons/common/pivotree.jpg',
     date: 'Oct 2024 Present',
     desc: 'As a Production Engineer/DevOps at Pivotree Created Docker images and AWS CI/CD pipelines.Implemented Robot Framework using AWS for automation and testing.',
     // descBullets: [
