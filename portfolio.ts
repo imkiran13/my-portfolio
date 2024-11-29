@@ -300,19 +300,19 @@ export const projects: ProjectType[] = [
     link: 'https://imkiran13.github.io/my-portfolio/',
   },
   {
-    name: 'Keerti Academy',
-    desc: ' Template designed for Educational purpose with Html,css,javascript with mobile responsive approach.',
-    github: 'https://github.com/imkiran13/Keerti-Academy',
+    name: 'AWS CICD',
+    desc: ' End-to-end CI/CD process for deploying a Spring Boot app on AWS ECS using CodePipeline and CodeBuild (Codepipeline, CodeBuild, ECR, ECS)',
+    github: 'https://github.com/imkiran13/aws-cicd.git',
   },
   {
-    name: 'Supply Chain',
-    desc: 'Template designed for Business purpose with Html,css,javascript with mobile responsive approach.',
-    github: 'https://github.com/imkiran13/Supplychain',
+    name: 'Bingo App CICD',
+    desc: 'Real-Time CI CD with DevSecOps with Nginx Reverse proxy and SSL',
+    github: 'https://github.com/imkiran13/Bingo-App-CICD.git',
   },
   {
-    name: 'Neosmile',
-    desc: 'Template designed for Educational purpose with Html,css,javascript with mobile responsive approach.',
-    github: 'https://github.com/imkiran13/Neosmile',
+    name: '3-Tier-Yelp-Camp-Web-Application',
+    desc: 'Yelp Camp 3 Tier Web Application Deployment in Local, Dev and Prod environments using Jenkins CI/CD',
+    github: 'https://github.com/imkiran13/3-Tier-Yelp-Camp-Web-Application.git',
   },
 ];
 
