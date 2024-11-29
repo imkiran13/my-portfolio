@@ -262,20 +262,20 @@ export const experience: ExperienceType[] = [
     role: 'Cloud and DevOps Engineer',
     company: 'NeoSOFT Technologies',
     companyLogo: 'https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rdoftbzurlp50yearkrj',
-    date: 'March 2021-Present',
+    date: 'March 2021-Oct 2024',
     desc: 'As a Cloud and DevOps Engineer at NeoSOFT Technologies since March 2021, I design and implement robust solutions, specializing in source code management, CI/CD, and AWS cloud technologies..',
   },
-  // {
-  //   role: 'API Engineer',
-  //   company: 'Duseca Software',
-  //   companyLogo: '/img/icons/common/dusecaSoftware.jpg',
-  //   date: 'Jan 2022 – Mar 2022',
-  //   desc: 'I worked as API Engineer on a Kale App. Kale is a community platform for the creation of social reviews based on verified transactions. I built Fully Optimized and High Performance RESTful APIs using Django, DjangoRESTFramework, PostgresSQL, JWT Authentication, AWS, Integrated Plaid APIs for Fetching Bank Transactions, Integrated Sentry for monitoring Django Server and deployed the API on Heroku Server.',
-  //   descBullets: [
-  //   	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
-  //   	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-  //   ],
-  // },
+  {
+    role: 'Production Engineer',
+    company: 'Pivotree',
+    companyLogo: '/img/icons/common/Pivotree.jpg',
+    date: 'Oct 2024 Present',
+    desc: 'As a Production Engineer/DevOps at Pivotree Created Docker images and AWS CI/CD pipelines.Implemented Robot Framework using AWS for automation and testing.',
+    // descBullets: [
+    // 	"Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit",
+    // 	"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+    // ],
+  },
   // {
   //   role: 'Full Stack Developer',
   //   company: 'Bleed-AI',
