@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   title: "Hello all, I'm Kiran Pawar",
   description:
     "A versatile IT professional with a passion for crafting exceptional digital experiences. I specialize in both Frontend development, cloud and DevOps engineering, bringing a unique blend of creativity and technical expertise to the table.",
-  resumeLink:"https://drive.google.com/file/d/1lYB4ZddrGHjIwx1fjew8v75k9h5Ltb2N/view?usp=sharing",
+  resumeLink:"https://drive.google.com/file/d/1CTOL3ai0GDP2w0KjyXiZF8a6iGtpGn7J/view",
 };
 
 export const openSource = {
