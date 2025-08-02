@@ -279,7 +279,7 @@ export const experience: ExperienceType[] = [
   {
     role: 'Associtate Consultant',
     company: 'Infosys',
-    companyLogo: '/img/icons/common/Infosys.png',
+    companyLogo: '/img/icons/common/infosys.png',
     date: 'March 2025 - Present',
     desc: 'As a DevOps Engineer at Infosys, I am responsible for migrating source code repositories from Azure DevOps to GitHub Cloud, ensuring a seamless transition and improved version control practices. I design and implement CI/CD workflows using GitHub Actions to automate the deployment of Java, .NET, and Node.js applications across test, production, and system environments. My work focuses on enhancing automation, optimizing delivery pipelines, and supporting scalable, secure release processes across diverse application stacks.',
   },
